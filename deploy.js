@@ -4,8 +4,8 @@ const Web3 = require("web3");
 const { abi, evm } = require("./compile");
 
 provider = new HDWalletProvider(
-  "ENTER___UR___MNEMONIC___PHRASE___HERE",
-  "https://rinkeby.infura.io/v3/c6e85483a2d240f994a84f88fc15d43b"
+  "ENTER_UR_MNEMONIC_PHRASE_HERE",
+  "ENTER_ENDPOINT"
 );
 
 const web3 = new Web3(provider);
