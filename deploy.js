@@ -4,7 +4,7 @@ const Web3 = require("web3");
 const { abi, evm } = require("./compile");
 
 provider = new HDWalletProvider(
-  "start first false always illness icon brief dutch nest image potato execute",
+  "ENTER___UR___MNEMONIC___PHRASE___HERE",
   "https://rinkeby.infura.io/v3/c6e85483a2d240f994a84f88fc15d43b"
 );
 
